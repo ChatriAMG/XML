@@ -1,0 +1,85 @@
+<InfoTienda>
+	<nombre>La Casa Del Alfajor</nombre>
+	<web>www.laCasadelalfajor.com</web>
+	<apertura>1956</apertura>
+	<direccion>
+		<calle>jiron de la union</calle>
+		<numero>67</numero>
+		<ciudad>Lima</ciudad>
+		<pais>Perú</pais>	
+	</direccion>
+	<numeros>
+		<numero1>999999999</numero1>
+		<numero2>988888888</numero2>
+		<numero3>977777777</numero3>
+	</numeros>
+
+
+	<Productos>
+		<Producto1>
+			<id>A001</id>
+			<nombre>alfajor</nombre>
+			<categoria>petit</categoria>
+			<precios>
+				<p100G>s/8.00</p100G>
+				<p500G>s/16.00</p500G>
+				<p1KG>s/25.00</p1KG>
+			</precios>
+			<stock>60</stock>
+			<descripcion>alfajores muy pequeños con manjar blanco</descripcion>
+			<EspecificTecnic>
+				<ET100g>Empaquetado en bolsa de plástico</ET100g>
+				<ET500g>Empaquetado en caja de 20 x 10</ET500g>
+				<ET1kg>Empaquetado en caja de 20 x 10 con doble altura</ET1kg>
+			</EspecificTecnic>
+			<variantes>
+				<Sabores>manjar blanco</Sabores>
+			</variantes>
+		</Producto1>
+
+		<Producto2>
+			<id>A002</id>
+			<nombre>alfajor</nombre>
+			<categoria>Medianos</categoria>
+			<precios>
+				<p100G>s/10.00</p100G>
+				<p500G>s/20.00</p500G>
+				<p1KG>s/30.00</p1KG>
+			</precios>
+			<stock>48</stock>
+			<descripcion>alfajores medianos con manjar blanco o chocolate</descripcion>
+			<EspecificTecnic>
+				<ET100g>Empaquetado en bolsa de plástico</ET100g>
+				<ET500g>Empaquetado en caja de 20 x 10</ET500g>
+				<ET1kg>Empaquetado en caja de 25 x 15 con doble altura</ET1kg>
+			</EspecificTecnic>
+			<variantes>
+				<Sabor1>manjar blanco</Sabor1>
+				<Sabor2>chocolate</Sabor2>
+			</variantes>
+		</Producto2>
+
+		<Producto3>
+			<id>A003</id>
+			<nombre>alfajor</nombre>
+			<categoria>Gigantic</categoria>
+			<precios>
+				<p100G>s/20.00</p100G>
+				<p500G>s/35.00</p500G>
+				<p1KG>s/50.00</p1KG>
+			</precios>
+			<stock>34</stock>
+			<descripcion>alfajores grandes con manjar blanco, chocolate o algarrobina</descripcion>
+			<EspecificTecnic>
+				<ET100g>Empaquetado en bolsa de plástico</ET100g>
+				<ET500g>Empaquetado en caja de 25 x 15</ET500g>
+				<ET1kg>Empaquetado en caja de 30 x 20 con doble altura</ET1kg>
+			</EspecificTecnic>
+			<variantes>
+				<Sabor1>manjar blanco</Sabor1>
+				<Sabor2>chocolate</Sabor2>
+				<Sabor3>Algarrobina</Sabor3>
+			</variantes>
+		</Producto3>
+	</Productos>
+</InfoTienda>
