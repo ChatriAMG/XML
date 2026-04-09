@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+	<contacto>
+		<nombre>Nicolas</nombre>
+		<apellidos>Maduro</apellidos>
+		<numero>694 85 23 20</numero>
+		<correo_electronico>Gu5@gmail.com</correo_electronico>
+	</contacto>
+
+	<contacto>
+		<nombre>Daniel</nombre>
+		<apellidos>Carranza</apellidos>
+		<numero>697 77 18 75</numero>
+		<correo_electronico>Daniel.C@outlook.com</correo_electronico>
+	</contacto>
+
+	<contacto>
+		<nombre>Donald</nombre>
+		<apellidos>Trump</apellidos>
+		<numero>693 94 87 27</numero>
+		<correo_electronico>govermentoftheus@gmail.com</correo_electronico>
+	</contacto>
+
+	<contacto>
+		<nombre>six</nombre>
+		<apellidos>seven</apellidos>
+		<numero>676 67 67 67</numero>
+		<correo_electronico>sixseven@gmail.com</correo_electronico>
+	</contacto>
+
+	<contacto>
+		<nombre>Adrian</nombre>
+		<apellidos>herrera</apellidos>
+		<numero>676 24 54 76</numero>
+		<correo_electronico>adrianherreracoach@gmail.com</correo_electronico>
+	</contacto>
+</agenda>
+
+2
+<?xml version="1.0" encoding="UTF-8"?>
+<filmoteca>
+	<pelicula> 
+		<titulo>La La Land</titulo>
+		<director>Damien Chazelle</director>
+		<duracion>127</duracion>
+		<reparto>
+			<actor>
+				<nombre>Ryan Thomas</nombre>
+				<apellidos>Gosling</apellidos>
+				<Fec_Nac>1980-11-12</Fec_Nac>
+				<nacionalidad>Canadiense</nacionalidad>
+			</actor>
+			
+			<actor>
+				<nombre>Emma Riley</nombre>
+				<apellidos>Jean Stone</apellidos>
+				<Fec_Nac>1988-11-06</Fec_Nac>
+				<nacionalidad>Estadounidense</nacionalidad>
+			</actor>
+		</reparto>
+		<genero>Romatico</genero>
+	</pelicula>
+
+	<pelicula> 
+		<titulo>Avengers End Game</titulo>
+		<director>Joe Russo, anthony russo</director>
+		<duracion>181</duracion>
+		<reparto>
+			<actor>
+				<nombre>Robert john</nombre>
+				<apellidos>downey JR</apellidos>
+				<Fec_Nac>1965-04-04</Fec_Nac>
+				<nacionalidad>Estadounidense</nacionalidad>
+			</actor>
+			
+			<actor>
+				<nombre>Christopher robert</nombre>
+				<apellidos>Evans</apellidos>
+				<Fec_Nac>1981-06-13</Fec_Nac>
+				<nacionalidad>Estadounidense</nacionalidad>
+			</actor>
+
+			<actor>
+				<nombre>Christopher robert</nombre>
+				<apellidos>Evans</apellidos>
+				<Fec_Nac>1981-06-13</Fec_Nac>
+				<nacionalidad>Estadounidense</nacionalidad>
+			</actor>
+		</reparto>
+
+		<genero>Acción</genero>
+	</pelicula>
+
+	<pelicula> 
+		<titulo>Spiderman No Way Home</titulo>
+		<director>Jon watts</director>
+		<duracion>148</duracion>
+		<reparto>
+			<actor>
+				<nombre>Thomas</nombre>
+				<apellidos>Stanley Holland</apellidos>
+				<Fec_Nac>1996-06-01</Fec_Nac>
+				<nacionalidad>Britanica</nacionalidad>
+			</actor>
+			
+			<actor>
+				<nombre>andrew</nombre>
+				<apellidos>Russel Garfield</apellidos>
+				<Fec_Nac>1983-08-20</Fec_Nac>
+				<nacionalidad>Estadounidense</nacionalidad>
+			</actor>
+
+			<actor>
+				<nombre>tobias</nombre>
+				<apellidos>vincent maguire</apellidos>
+				<Fec_Nac>1975-06-27</Fec_Nac>
+				<nacionalidad>Estadounidense</nacionalidad>
+			</actor>
+		</reparto>
+
+		<genero>Superheroes</genero>
+	</pelicula>
+</filmoteca>
+
+
+3
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+	<contacto>
+		<nombre>Andrea</nombre>
+		<apellidos>Flores</apellidos>
+		<correo_electronico>mxvyo.and@outlook.com</correo_electronico>
+		<telefonos>
+			<Tel_movil>697 77 18 75</Tel_movil>
+			<Tel_casa>957 39 85 27</Tel_casa>
+			<Tel_trabajo>683 02 49 59</Tel_trabajo>
+		</telefonos>
+		<direccion>
+			<Tipo_de_via>avenida</Tipo_de_via>
+			<nombre_via>Fernando Wiesse</nombre_via>
+			<numero>06</numero>
+			<cod_postal>45068</cod_postal>
+			<localidad>San Juan</localidad>
+			<provincia>Lima metropolitana</provincia>
+		</direccion>
+		<tipo_de_contacto>amigo</tipo_de_contacto>
+	</contacto>
+
+	<contacto>
+		<nombre>Jorge</nombre>
+		<apellidos>Huaman</apellidos>
+		<correo_electronico>whatamidoing@gmail.com</correo_electronico>
+		<telefonos>
+			<Tel_movil>994 374 943</Tel_movil>
+			<Tel_casa>957 534 656</Tel_casa>
+			<Tel_trabajo>987 685 309</Tel_trabajo>
+		</telefonos>
+		<direccion>
+			<Tipo_de_via>Calle</Tipo_de_via>
+			<nombre_via>Las ortigas</nombre_via>
+			<numero>01</numero>
+			<cod_postal>45068</cod_postal>
+			<Localidad>San Juan</Localidad>
+			<provincia>Lima metropolitana</provincia>
+		</direccion>
+		<tipo_de_contacto>Familiar</tipo_de_contacto>
+	</contacto>
+
+	<contacto>
+		<nombre>Valentina</nombre>
+		<apellidos>Abreo</apellidos>
+		<correo_electronico>AndreaVaabreo@gmail.com</correo_electronico>
+		<telefonos>
+			<Tel_movil>678 53 59 28</Tel_movil>
+			<Tel_casa>957 58 30 24</Tel_casa>
+			<Tel_trabajo>636 58 28 50</Tel_trabajo>
+		</telefonos>
+		<direccion>
+			<Tipo_de_via>Avenida</Tipo_de_via>
+			<nombre_via>Hellin</nombre_via>
+			<numero>19</numero>
+			<cod_postal>28037</cod_postal>
+			<Localidad>San blas- Canillejas</Localidad>
+			<provincia>Madrid</provincia>
+		</direccion>
+		<tipo_de_contacto>Familiar</tipo_de_contacto>
+	</contacto>
+
+	
+</agenda>
