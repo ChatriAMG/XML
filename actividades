@@ -188,3 +188,20 @@
 
 	
 </agenda>
+
+ejercicio
+Realiza un archivo XML que contenga información sobre un CV, que refleje la siguiente  información: 
+• Nombre. 
+• Apellidos. 
+• Fecha de nacimiento. 
+• Ciudad de residencia. 
+• País de residencia. 
+• Teléfono fijo. 
+• Teléfono móvil. 
+• Correo electrónico. 
+• Breve descripción del perfil. 
+• Qué título tiene (titulación). 
+• En qué centro obtuvo dicha titulación. 
+• En qué año obtuvo la titulación. 
+• Sólo ha trabajado en una empresa, y en la actualidad sigue en dicha empresa. Necesitamos saber en qué empresa trabaja, cuál es su puesto, en qué fecha le  dieron de alta y cuál es la fecha de baja. 
+
